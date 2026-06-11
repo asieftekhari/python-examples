@@ -17,3 +17,5 @@
 - If greater than or equal to 40 years, output: `"Middle-aged"`
 
 **Example 5:** Write a program that accepts an operator (such as +, -, *, or /) and two numbers (operands) as input. Then, based on the operator provided, it should perform the appropriate mathematical operation and display the result.
+
+**Example 6:** Write a program that reads a three-digit number, reverses its digits, multiplies the reversed number by 2, and prints the result. You may assume the input is always a three-digit number. Example: Input 765 → Reverse is 567 → 2 × 567 = 1134 (output).
