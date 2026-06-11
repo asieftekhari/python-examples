@@ -21,3 +21,5 @@
 **Example 6:** Write a program that reads a three-digit number, reverses its digits, multiplies the reversed number by 2, and prints the result. You may assume the input is always a three-digit number. Example: Input 765 → Reverse is 567 → 2 × 567 = 1134 (output).
 
 **Example 7:** Write a program that reads an integer and prints the smallest multiple of 10 that is strictly greater than the input number. For instance, input 11 gives 20, and input 40 gives 50.
+
+**Example 8:** Write a program that reads two numbers from input and prints the larger number. The first line of input contains the first number, and the second line of input contains the second number. It is guaranteed that the input numbers are positive integers. If the two numbers are equal, it does not matter which one is printed — just print one of them.
