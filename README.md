@@ -27,3 +27,16 @@
 **Example 9:** Write a program that receives several numbers as input, stores them in a list, then calculates and prints the sum, the average, the maximum, and the minimum of the numbers.
 
 **Example 10:** First, take a string as input, store its reverse in a variable, then check if the reversed string is equal to the original string, and finally print the result.
+
+**Example 11:** We want to take a list as input, remove its duplicate elements, and display the result in the output.
+
+**Example 12:** We have a dictionary as input, then we check for the existence of a key in the dictionary.
+
+**Example 13:** Using a while loop, allow the user three attempts. After each attempt, guide them to move closer to the chosen number. If they succeed, declare them the winner; otherwise, declare them the loser.
+
+**Example 14:** Using a for loop, print all even numbers less than 50.
+
+**Example 15:** Write a program that receives the ages of students in a class and stores them in a list. Then:
+
+- Compute and display the average age of the class.
+- Display the count of students whose age is greater than the class average.
