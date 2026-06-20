@@ -46,3 +46,7 @@
 **Example 17:** Write a program that reads the ages of employees from the user and outputs the oldest age. The program keeps reading until the number -1 is entered. Once this number is encountered, the program should stop reading and print the maximum age. The ages are between 10 and 90.
 
 **Example 18:** Write a program that reads student ages until -1 is entered, then prints the largest and second largest ages. Ages range from 10 to 90. All input ages are guaranteed to be distinct.
+
+**Example 19:** The final list of participant names is sent to the executive committee for printing entry cards. However, the names were not entered in standard format during registration (standard format: first letter uppercase, rest lowercase). Write a program that reads 5 names and prints their standardized versions.
+
+**Example 20:** Write a program that converts a word to uppercase if it contains more uppercase than lowercase letters; otherwise, converts it to lowercase.
