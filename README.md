@@ -42,3 +42,7 @@
 - Display the count of students whose age is greater than the class average.
 
 **Example 16:** Define two sets and implement add, remove, intersection, and union operations for them.
+
+**Example 17:** Write a program that reads the ages of employees from the user and outputs the oldest age. The program keeps reading until the number -1 is entered. Once this number is encountered, the program should stop reading and print the maximum age. The ages are between 10 and 90.
+
+**Example 18:** Write a program that reads student ages until -1 is entered, then prints the largest and second largest ages. Ages range from 10 to 90. All input ages are guaranteed to be distinct.
