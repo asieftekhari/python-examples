@@ -40,3 +40,5 @@
 
 - Compute and display the average age of the class.
 - Display the count of students whose age is greater than the class average.
+
+**Example 16:** Define two sets and implement add, remove, intersection, and union operations for them.
