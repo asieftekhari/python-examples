@@ -50,3 +50,5 @@
 **Example 19:** The final list of participant names is sent to the executive committee for printing entry cards. However, the names were not entered in standard format during registration (standard format: first letter uppercase, rest lowercase). Write a program that reads 5 names and prints their standardized versions.
 
 **Example 20:** Write a program that converts a word to uppercase if it contains more uppercase than lowercase letters; otherwise, converts it to lowercase.
+
+**Example 21:** Write a program that determines whether a word is a palindrome or not. A palindrome is a word that reads the same from left to right and from right to left. For example, "Madam" is a palindrome, but "Tehran" is not. Please note that case sensitivity does not matter — as mentioned, "Madam" is a palindrome, and so is "madDAM".
